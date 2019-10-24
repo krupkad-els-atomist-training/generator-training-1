@@ -1,4 +1,4 @@
-import * as express from "express";
+import * as express from "express"
 import * as exphbs from "express-handlebars";
 import * as morgan from "morgan";
 
